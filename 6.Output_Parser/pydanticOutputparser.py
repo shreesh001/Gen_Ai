@@ -27,7 +27,7 @@ prompt = PromptTemplate(
 
 chain = prompt | model | parser
 
-result = chain.invoke({'country': 'America'})
+result = chain.invoke({'country': 'Russia'})
 
 print(result)
 

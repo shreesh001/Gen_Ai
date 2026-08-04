@@ -5,12 +5,6 @@ import os
 
 env_path = Path(__file__).resolve().parent.parent / ".env"
 
-# print(env_path)
-# print(load_dotenv(dotenv_path=env_path))
-
-# print("HF_TOKEN =", os.getenv("HF_TOKEN"))
-# print("HUGGINGFACEHUB_API_TOKEN =", os.getenv("HUGGINGFACEHUB_API_TOKEN"))
-
 load_dotenv(dotenv_path=env_path)  # Load environment variables from .env file
 llm = HuggingFaceEndpoint(
     repo_id="Qwen/Qwen2.5-7B-Instruct",
