@@ -1,0 +1,13 @@
+Employee_ID,Name,Department,Designation,Experience_Years,Salary,Location,Performance_Rating
+101,Aarav Sharma,Software Engineering,Backend Developer,3,85000,Bangalore,4.5
+102,Priya Singh,Data Science,Data Scientist,5,120000,Hyderabad,4.8
+103,Rohan Gupta,Human Resources,HR Manager,8,95000,Delhi,4.2
+104,Ananya Verma,Software Engineering,Frontend Developer,2,75000,Pune,4.1
+105,Vikram Mehta,Finance,Financial Analyst,6,110000,Mumbai,4.6
+106,Neha Kapoor,Marketing,Marketing Executive,4,70000,Gurgaon,3.9
+107,Rahul Yadav,Software Engineering,DevOps Engineer,7,135000,Bangalore,4.9
+108,Sneha Joshi,Data Science,ML Engineer,3,98000,Hyderabad,4.4
+109,Karan Malhotra,Sales,Sales Manager,9,145000,Chennai,4.7
+110,Isha Patel,Software Engineering,Full Stack Developer,5,125000,Ahmedabad,4.3
+111,Aditya Kumar,Cyber Security,Security Analyst,4,105000,Pune,4.5
+112,Meera Nair,Product Management,Product Manager,8,155000,Bangalore,4.8
