@@ -61,7 +61,7 @@ branch_chain = RunnableBranch(
 # ---- Final chain ----
 chain = rating_chain | branch_chain
 
-movie_name = "Aashiqui 2"   # movie name yaha se pick ho raha hai branch ke andar
+movie_name = "Jumanji 2018"   # movie name yaha se pick ho raha hai branch ke andar
 print(chain.invoke({'movie': movie_name}))
 
 chain.get_graph().print_ascii()
