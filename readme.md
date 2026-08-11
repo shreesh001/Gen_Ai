@@ -850,4 +850,4 @@ Practical concerns once a GenAI app moves from prototype to real users:
 
 ---
 
-*End of handbook. Source: your uploaded course notes (~143-page LangChain/GenAI curriculum), reorganized around GenAI fundamentals + supplemented only where needed (Transformers internals, MCP, Multimodal, Evaluation, Production) since those weren't covered in depth in the source material but are standard interview topics.*
+*End of handbook*
