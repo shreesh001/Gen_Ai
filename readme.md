@@ -1,6 +1,6 @@
 # Generative AI — Learning + Interview Handbook
 
-> Built from your GenAI/LangChain course notes, reorganized and supplemented with the minimum extra context needed for solid conceptual and interview readiness. Flow: **Fundamentals → LLMs → Transformers → Prompting → Embeddings → Vector DB → RAG → Fine-Tuning → Agents → MCP → Multimodal → Evaluation → Production → Interview Prep**
+> Flow: **Fundamentals → LLMs → Transformers → Prompting → Embeddings → Vector DB → RAG → Fine-Tuning → Agents → MCP → Multimodal → Evaluation → Production → Interview Prep**
 
 ---
 
